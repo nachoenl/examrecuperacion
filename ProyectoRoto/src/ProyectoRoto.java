@@ -5,7 +5,7 @@ public class ProyectoRoto {
 		String colores[]={"ROJO","AMARILLO","VERDE","AZUL","NEGRO","BLANCO","NARANJA"};
 
 		//Mostramos por pantalla todos los colores
-		System.out.println("----------------- COLORES ORDEN ASCENDENTE ---------------------");
+		System.out.println("----------------- COLORES ORDENes ASCENDENTE ---------------------");
 		for(int i=0;i<colores.length;i++){
 			System.out.println("El color es "+colores[i]);
 		}
